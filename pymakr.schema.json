@@ -4,7 +4,7 @@
   "additionalProperties": false,
   "properties": {
     "dist_dir": {
-      "description": "Folder to synchronize do device. Defaults to \".\"",
+      "description": "Folder to synchronize to device. Defaults to \".\"",
       "type": "string",
       "default": "."
     },
